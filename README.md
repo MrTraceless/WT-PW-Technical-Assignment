@@ -3,11 +3,15 @@
 
 - Clone [repo](https://github.com/MrTraceless/WT-PW-Technical-Assignment)
 
-- Execute cli command: ```npm i```
+> CLI commands:
+
+- Install needed packages: ```npm i```
+
+- Install browsers: ```npx playwright install```
 ***
 
 ### Running tests
-Execute cli commands:
+Execute CLI commands:
 
 ```npm run test``` - run all tests in headless mode
 
