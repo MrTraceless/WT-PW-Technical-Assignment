@@ -1,0 +1,22 @@
+{
+  "name": "WhiteTech-Pw-Technical-Assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:headed": "npx playwright test --headed",
+    "test:api": "npx playwright test --project API",
+    "test:ui": "npx playwright test --project UI",
+    "test:ui:mode": "npx playwright test --ui"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.5.2",
+    "msw": "^2.11.3"
+  }
+}
