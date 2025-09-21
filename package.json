@@ -9,11 +9,11 @@
     "test:ui": "npx playwright test --project UI",
     "test:ui:mode": "npx playwright test --ui"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["Playwright, Testing, Automation", "AQA"],
+  "author": "Yaroslav Danilik",
+  "license": "MIT",
   "type": "module",
-  "description": "",
+  "description": "WhiteTech playwright technical assignment",
   "devDependencies": {
     "@playwright/test": "^1.55.0",
     "@types/node": "^24.5.2",
