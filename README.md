@@ -1,7 +1,7 @@
 ### Installation
 - Install [node.js](https://nodejs.org/en/download)
 
-- Clone [repo](https://github.com/MrTraceless/WhiteTech-PW-Technical-Assignment)
+- Clone [repo](https://github.com/MrTraceless/WhiteTech-PW-Technical-Assignment](https://github.com/MrTraceless/WT-PW-Technical-Assignment)
 
 - Execute cli command: ```npm i```
 ***
